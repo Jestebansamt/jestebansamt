@@ -1,16 +1,22 @@
 <h1 align="center">Juan Esteban Santacruz</h1>
 
 <p align="center">
-Software Engineering Student
+Software Engineering Student at the National University of Colombia
 </p>
 
-<p align="center">
-Interested in software development, algorithms, and technical education.
-</p>
+### About Me
+
+Software Engineering student at the National University of Colombia.
+
+My main interests are algorithmic problem solving, software development, and technical education.
+
+I previously represented my university in ICPC (International Collegiate Programming Contest) and continue to explore computer science through personal projects and teaching activities.
 
 ---
 
 ### Current Focus
+
+Interested in software development, algorithms, and technical education.
 
 - Software Development
 - Algorithms & Problem Solving
